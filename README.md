@@ -17,8 +17,8 @@ It includes shared content created by the group (homepage, resources, and contac
   - 'zhiqi.css' → Styling for ZhiQi's page
 - 'lixin.html' → Li Xin's personal webpage
   - 'style.css' → Styling for Li Xin's page
-- 'Sarah.html' → Sarah's personal webpage
-  - 'sarah.css' → Styling for Sarah's personal webpage
+- 'szeching.html' → Sze Ching's personal webpage
+  - 'szeching.css' → Styling for Sze Ching's personal webpage
 - 'Sarah.html' → Sze Ching's personal webpage
   - 'sarah.css' → Styling for Sze Ching's personal webpage
 
